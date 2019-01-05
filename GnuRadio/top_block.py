@@ -3,7 +3,7 @@
 ##################################################
 # GNU Radio Python Flow Graph
 # Title: Top Block
-# Generated: Tue Jan  1 23:39:47 2019
+# Generated: Sat Jan  5 22:09:26 2019
 ##################################################
 
 
@@ -82,7 +82,7 @@ class top_block(grc_wxgui.top_block_gui):
         	1, samp_rate, 8000, 5000, firdes.WIN_HAMMING, 6.76))
         self.freq_xlating_fir_filter_xxx_0 = filter.freq_xlating_fir_filter_ccc(1, (firdes.low_pass(1, samp_rate, 120000, 60000, firdes.WIN_BLACKMAN, 6.76)), 433.920, samp_rate)
         self.blocks_throttle_0 = blocks.throttle(gr.sizeof_gr_complex*1, samp_rate,True)
-        self.blocks_file_source_0 = blocks.file_source(gr.sizeof_gr_complex*1, '/tmp/0pct-v1-RTL-SDR-433_920MHz-1MSps-1MHz.complex', True)
+        self.blocks_file_source_0 = blocks.file_source(gr.sizeof_gr_complex*1, '../Tank Sender 0pct/0pct-v1-RTL-SDR-433_920MHz-1MSps-1MHz.complex', True)
         self.blocks_complex_to_mag_squared_0 = blocks.complex_to_mag_squared(1)
 
         ##################################################
