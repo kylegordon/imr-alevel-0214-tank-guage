@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<protocol>
+   <decodings>
+      <decoding>'Non Return To Zero (NRZ)', </decoding>
+      <decoding>'Non Return To Zero Inverted (NRZ-I)', 'Invert', </decoding>
+      <decoding>'Manchester I', 'Edge Trigger', </decoding>
+      <decoding>'Manchester II', 'Edge Trigger', 'Invert', </decoding>
+      <decoding>'Differential Manchester', 'Edge Trigger', 'Differential Encoding', </decoding>
+   </decodings>
+   <participants/>
+   <messages>
+      <message bits="101010101010001000101000000010101010101100" decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="3380" timestamp="1546210432.4659274"/>
+      <message bits="101010101010000100010100000000101001100111000" decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="7558" timestamp="1546209149.9470022"/>
+      <message bits="101010101010100100010100000000101010111000" decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="7421" timestamp="1546210844.375345"/>
+   </messages>
+   <message_types>
+      <message_type assigned_by_logic_analyzer="0" assigned_by_ruleset="0" id="d337e5b1-4eb1-449b-a7af-8c5104cac469" name="Default">
+         <label apply_decoding="True" auto_created="False" color_index="0" display_bit_order_index="0" display_endianness="big" display_format_index="0" end="-4" fuzz_me="2" fuzz_values="" name="preamble" show="2" start="-4"/>
+         <ruleset mode="0"/>
+      </message_type>
+   </message_types>
+</protocol>

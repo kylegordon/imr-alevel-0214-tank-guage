@@ -1,0 +1,157 @@
+<UniversalRadioHackerProject broadcast_address_hex="ffff" collapse_project_tabs="0" description="" modulation_was_edited="0">
+  <modulators>
+    <modulator carrier_amplitude="1.0" carrier_freq_hz="40000.0" carrier_phase_deg="0.0" gauss_bt="0.5" gauss_filter_width="1.0" index="0" modulation_type="0" name="Modulator" param_for_one="100.0" param_for_zero="0.0" sample_rate="None" samples_per_bit="100" />
+  </modulators>
+  <device_conf>
+    <adaptive_noise>False</adaptive_noise>
+    <apply_dc_correction>False</apply_dc_correction>
+    <bandwidth>48000.0</bandwidth>
+    <bit_len>4</bit_len>
+    <center>-0.0512</center>
+    <decoding_name>Non Return To Zero (NRZ)</decoding_name>
+    <freq_correction>1</freq_correction>
+    <frequency>433920000.0</frequency>
+    <modulation_index>2</modulation_index>
+    <name>RTL-SDR</name>
+    <noise>0.0293</noise>
+    <num_sending_repeats>0</num_sending_repeats>
+    <rx_antenna_index>-1</rx_antenna_index>
+    <rx_baseband_gain>20</rx_baseband_gain>
+    <rx_gain>199</rx_gain>
+    <rx_if_gain>20</rx_if_gain>
+    <sample_rate>48000.0</sample_rate>
+    <tolerance>1</tolerance>
+    <tx_antenna_index>-1</tx_antenna_index>
+    <tx_baseband_gain>20</tx_baseband_gain>
+    <tx_gain>50</tx_gain>
+    <tx_if_gain>20</tx_if_gain>
+  </device_conf>
+  <simulator_rx_conf />
+  <simulator_tx_conf />
+  <signal bit_length="2700" filename="0pct-v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v4-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0293" noise_minimum="-0.0293" noise_threshold="0.0293" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="25">
+    <messages />
+  <messages /></signal>
+  <open_file name="0pct-v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="0" />
+  <signal bit_length="2700" filename="0pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0293" noise_minimum="-0.0293" noise_threshold="0.0293" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="26">
+    <messages />
+  <messages /></signal>
+  <open_file name="0pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="1" />
+  <signal bit_length="2700" filename="0pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0293" noise_minimum="-0.0293" noise_threshold="0.0293" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="30">
+    <messages />
+  <messages /></signal>
+  <open_file name="0pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="2" />
+  <signal bit_length="2700" filename="0pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0293" noise_minimum="-0.0293" noise_threshold="0.0293" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="28">
+    <messages />
+  <messages /></signal>
+  <open_file name="0pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="3" />
+  <signal bit_length="2100" filename="0-gqrx_20171013_122415_433920000_1800000_fc.raw" message_length_divisor="1" modulation_type="0" name="0-gqrx_20171013_122415_433920000_1800000_fc" noise_maximum="0.9579" noise_minimum="-0.9579" noise_threshold="0.9579" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="1">
+    <messages />
+  <messages /></signal>
+  <open_file name="0-gqrx_20171013_122415_433920000_1800000_fc.raw" position="4" />
+  <signal bit_length="2700" filename="11pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="11pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0293" noise_minimum="-0.0293" noise_threshold="0.0293" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="21">
+    <messages />
+  <messages /></signal>
+  <open_file name="11pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="5" />
+  <signal bit_length="2100" filename="11pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="11pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0293" noise_minimum="-0.0293" noise_threshold="0.0293" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="25">
+    <messages />
+  <messages /></signal>
+  <open_file name="11pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="6" />
+  <signal bit_length="2100" filename="11pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="11pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0293" noise_minimum="-0.0293" noise_threshold="0.0293" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="23">
+    <messages />
+  <messages /></signal>
+  <open_file name="11pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="7" />
+  <signal bit_length="2100" filename="90-gqrx_20171013_122252_433920000_1800000_fc.raw" message_length_divisor="1" modulation_type="0" name="90-gqrx_20171013_122252_433920000_1800000_fc" noise_maximum="0.897" noise_minimum="-0.897" noise_threshold="0.897" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="2">
+    <messages />
+  <messages /></signal>
+  <open_file name="90-gqrx_20171013_122252_433920000_1800000_fc.raw" position="8" />
+  <signal bit_length="2700" filename="95pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="95pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0356" noise_minimum="-0.0356" noise_threshold="0.0356" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="27">
+    <messages />
+  <messages /></signal>
+  <open_file name="95pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="9" />
+  <signal bit_length="2700" filename="95pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="95pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0338" noise_minimum="-0.0338" noise_threshold="0.0338" pause_threshold="8" qad_center="0.5765" sample_rate="48000.0" tolerance="30">
+    <messages />
+  <messages /></signal>
+  <open_file name="95pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="10" />
+  <signal bit_length="2700" filename="95pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="95pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0338" noise_minimum="-0.0338" noise_threshold="0.0338" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="26">
+    <messages />
+  <messages /></signal>
+  <open_file name="95pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="11" />
+  <signal bit_length="2700" filename="95pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="95pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0338" noise_minimum="-0.0338" noise_threshold="0.0338" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="26">
+    <messages />
+  <messages /></signal>
+  <open_file name="95pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="12" />
+  <signal bit_length="2700" filename="50pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="50pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0299" noise_minimum="-0.0299" noise_threshold="0.0299" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="26">
+    <messages />
+  <messages /></signal>
+  <open_file name="50pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="13" />
+  <signal bit_length="2700" filename="50pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="50pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0299" noise_minimum="-0.0299" noise_threshold="0.0299" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="28">
+    <messages />
+  <messages /></signal>
+  <open_file name="50pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="14" />
+  <signal bit_length="2700" filename="50pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="50pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0299" noise_minimum="-0.0299" noise_threshold="0.0299" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="26">
+    <messages />
+  <messages /></signal>
+  <open_file name="50pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="15" />
+  <signal bit_length="2700" filename="50pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" message_length_divisor="1" modulation_type="0" name="50pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz" noise_maximum="0.0356" noise_minimum="-0.0356" noise_threshold="0.0356" pause_threshold="8" qad_center="0.5" sample_rate="48000.0" tolerance="25">
+    <messages />
+  <messages /></signal>
+  <open_file name="50pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" position="16" />
+  <group id="0" name="New group">
+    <cf_protocol filename="0-gqrx_20171013_122415_433920000_1800000_fc.raw" />
+    <cf_protocol filename="0pct-v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="0pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="0pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="0pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="11pct-v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="11pct-v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="11pct-v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="90-gqrx_20171013_122252_433920000_1800000_fc.raw" />
+    <cf_protocol filename="95pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="95pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="95pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="95pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="50pct_v1-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="50pct_v2-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="50pct_v3-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+    <cf_protocol filename="50pct_v4-RTL-SDR-433_920MHz-48kSps-48kHz.complex" />
+  </group>
+  <protocol>
+    <decodings>
+      <decoding>'Non Return To Zero (NRZ)', </decoding>
+      <decoding>'Non Return To Zero Inverted (NRZ-I)', 'Invert', </decoding>
+      <decoding>'Manchester I', 'Edge Trigger', </decoding>
+      <decoding>'Manchester II', 'Edge Trigger', 'Invert', </decoding>
+      <decoding>'Differential Manchester', 'Edge Trigger', 'Differential Encoding', </decoding>
+    </decodings>
+    <participants />
+    <messages>
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="3380" timestamp="1546210432.4659274" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="7558" timestamp="1546209149.9470022" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="7421" timestamp="1546210844.375345" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="2544" timestamp="1546209244.6358678" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="6211" timestamp="1546211049.7995713" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="2247" timestamp="1546211096.571777" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="3341" timestamp="1546209369.8595595" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="5503" timestamp="1546209392.5729558" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="7806" timestamp="1546211986.6205006" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="6855" timestamp="1546213071.2579422" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="76909" timestamp="1546213164.6910338" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="34021" timestamp="1546213218.6992958" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="29736" timestamp="1546213262.8654306" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="2793978" timestamp="1546213492.2292957" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="55479" timestamp="1546213492.229359" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="16224" timestamp="1546213429.020994" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="23137" timestamp="1546213351.645194" />
+      <message decoding_index="0" message_type_id="d337e5b1-4eb1-449b-a7af-8c5104cac469" modulator_index="0" pause="50339" timestamp="1546213363.293311" />
+    </messages>
+    <message_types>
+      <message_type assigned_by_logic_analyzer="0" assigned_by_ruleset="0" id="d337e5b1-4eb1-449b-a7af-8c5104cac469" name="Default">
+        <label apply_decoding="True" auto_created="False" color_index="0" display_bit_order_index="0" display_endianness="big" display_format_index="1" end="-4" fuzz_me="2" fuzz_values="" name="preamble" show="2" start="-4" />
+        <ruleset mode="0" />
+      </message_type>
+    </message_types>
+  </protocol>
+  <simulator_config>
+    <items />
+  </simulator_config>
+</UniversalRadioHackerProject>

@@ -1,0 +1,8 @@
+https://www.reddit.com/r/RTLSDR/comments/ac695t/brute_force_rf_devices_gates_bars_etc/
+https://www.csun.edu/~skatz/katzpage/sdr_project/sdr/capture_sigs.pdf
+https://github.com/gnuradio/gr-inspector
+https://www.reddit.com/r/RTLSDR/comments/49e7mx/demodulating_ask_in_gnuradio/
+https://www.reddit.com/r/RTLSDR/comments/49e7mx/demodulating_ask_in_gnuradio/
+https://www.rtl-sdr.com/wireless-door-bell-433-mhz-ask-signal-analysis-with-a-hackrf/
+https://bytebucket.org/rootbsd/433mhz-ask-signal-analysis/raw/5f4937e4efb2198abcc375b8aefee41421941fca/pdf/433MHz_ASK_sginal_analysis-Wireless_door_bell_adventure-1.0.pdf
+

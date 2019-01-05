@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<UniversalRadioHackerProject broadcast_address_hex="ffff" collapse_project_tabs="0" description="" modulation_was_edited="0">
+  <modulators>
+    <modulator carrier_amplitude="1.0" carrier_freq_hz="40000.0" carrier_phase_deg="0.0" gauss_bt="0.5" gauss_filter_width="1.0" index="0" modulation_type="0" name="Modulator" param_for_one="100.0" param_for_zero="0.0" sample_rate="None" samples_per_bit="100"/>
+  </modulators>
+  <device_conf>
+    <adaptive_noise>False</adaptive_noise>
+    <apply_dc_correction>False</apply_dc_correction>
+    <bandwidth>1000000.0</bandwidth>
+    <bit_len>4</bit_len>
+    <center>-0.0512</center>
+    <decoding_name>Non Return To Zero (NRZ)</decoding_name>
+    <freq_correction>1</freq_correction>
+    <frequency>433920000.0</frequency>
+    <gain>20</gain>
+    <modulation_index>2</modulation_index>
+    <name>RTL-SDR</name>
+    <noise>0.0293</noise>
+    <num_sending_repeats>0</num_sending_repeats>
+    <rx_antenna_index>-1</rx_antenna_index>
+    <rx_baseband_gain>20</rx_baseband_gain>
+    <rx_gain>199</rx_gain>
+    <rx_if_gain>20</rx_if_gain>
+    <sample_rate>1000000.0</sample_rate>
+    <tolerance>1</tolerance>
+    <tx_antenna_index>-1</tx_antenna_index>
+    <tx_baseband_gain>20</tx_baseband_gain>
+    <tx_gain>50</tx_gain>
+    <tx_if_gain>20</tx_if_gain>
+  </device_conf>
+  <simulator_rx_conf/>
+  <simulator_tx_conf/>
+  <signal bit_length="1200" filename="0pct-v1-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v1-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v1-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="0"/>
+  <signal bit_length="1200" filename="0pct-v2-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v2-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v2-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="1"/>
+  <signal bit_length="1200" filename="0pct-v3-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v3-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v3-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="2"/>
+  <signal bit_length="1200" filename="0pct-v4-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v4-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v4-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="3"/>
+  <signal bit_length="1200" filename="0pct-v5-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v5-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v5-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="4"/>
+  <signal bit_length="1200" filename="0pct-v6-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v6-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v6-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="5"/>
+  <signal bit_length="1200" filename="0pct-v7-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v7-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v7-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="6"/>
+  <signal bit_length="1200" filename="0pct-v8-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v8-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v8-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="7"/>
+  <signal bit_length="1200" filename="0pct-v9-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v9-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v9-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="8"/>
+  <signal bit_length="1200" filename="0pct-v10-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v10-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v10-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="9"/>
+  <signal bit_length="1200" filename="0pct-v11-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v11-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v11-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="10"/>
+  <signal bit_length="1200" filename="0pct-v12-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v12-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v12-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="11"/>
+  <signal bit_length="1200" filename="0pct-v13-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v13-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v13-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="12"/>
+  <signal bit_length="1200" filename="0pct-v14-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v14-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v14-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="13"/>
+  <signal bit_length="1200" filename="0pct-v15-RTL-SDR-433_920MHz-1MSps-1MHz.complex" message_length_divisor="1" modulation_type="0" name="0pct-v15-RTL-SDR-433_920MHz-1MSps-1MHz" noise_maximum="0.0229" noise_minimum="-0.0229" noise_threshold="0.0229" pause_threshold="8" qad_center="0.5" sample_rate="1000000.0" tolerance="15">
+    <messages/>
+  </signal>
+  <open_file name="0pct-v15-RTL-SDR-433_920MHz-1MSps-1MHz.complex" position="14"/>
+  <group id="0" name="New Group">
+    <cf_protocol filename="0pct-v1-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v2-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v3-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v4-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v5-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v6-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v7-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v8-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v9-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v10-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v11-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v12-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v13-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v14-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+    <cf_protocol filename="0pct-v15-RTL-SDR-433_920MHz-1MSps-1MHz.complex"/>
+  </group>
+  <protocol>
+    <decodings>
+      <decoding>'Non Return To Zero (NRZ)', </decoding>
+      <decoding>'Non Return To Zero Inverted (NRZ-I)', 'Invert', </decoding>
+      <decoding>'Manchester I', 'Edge Trigger', </decoding>
+      <decoding>'Manchester II', 'Edge Trigger', 'Invert', </decoding>
+      <decoding>'Differential Manchester', 'Edge Trigger', 'Differential Encoding', </decoding>
+    </decodings>
+    <participants/>
+    <messages>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="275239" timestamp="1546354763.8334548"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="289511" timestamp="1546354757.5667038"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="212721" timestamp="1546354757.5736134"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="126071" timestamp="1546354757.5873578"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="177747" timestamp="1546354736.541193"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="73910" timestamp="1546354757.594944"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="203338" timestamp="1546354757.602936"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="154027" timestamp="1546354757.6108897"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="128581" timestamp="1546354757.6180308"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="163352" timestamp="1546354757.6257865"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="143870" timestamp="1546354757.638689"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="132495" timestamp="1546354757.6500647"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="134358" timestamp="1546354757.6567113"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="54949" timestamp="1546354757.6625226"/>
+      <message decoding_index="0" message_type_id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" modulator_index="0" pause="97985" timestamp="1546354757.6716342"/>
+    </messages>
+    <message_types>
+      <message_type assigned_by_logic_analyzer="0" assigned_by_ruleset="0" id="ed7db607-4c0c-435e-9b64-3f5a5bea6b97" name="Default">
+        <ruleset mode="0"/>
+      </message_type>
+    </message_types>
+  </protocol>
+  <simulator_config>
+    <items/>
+  </simulator_config>
+</UniversalRadioHackerProject>
