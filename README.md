@@ -1,6 +1,6 @@
-## IMR by AIUT Alevel 0214
+# IMR by AIUT Alevel 0214
 
-# Some information pertaining to the decoding of the AIUT Alevel 0214 'Smart LPG Tank Level Sensor'
+## Some information pertaining to the decoding of the AIUT Alevel 0214 'Smart LPG Tank Level Sensor'
 
 [Product Page](http://www.smartgasmetering.com/en/products/19-alevel-214)
 
